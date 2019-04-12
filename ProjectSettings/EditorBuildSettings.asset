@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: b1ad2c5878a5441a48802170bada6b95
+  - enabled: 1
+    path: Assets/Scenes/Shelter.unity
+    guid: 746ab9f7424a4974982d1826c6301953
+  - enabled: 1
+    path: Assets/Scenes/ARInteraction.unity
+    guid: e7a2ec2630f364680868484aac780c19
+  - enabled: 1
+    path: Assets/Scenes/ARMap.unity
+    guid: 9228a1e766fb6d941a680bb9159e8d4c
+  m_configObjects: {}

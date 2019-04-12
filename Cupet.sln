@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{47F0D5BD-F71D-D03F-B89A-63EEF467D2C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavMeshComponents", "NavMeshComponents.csproj", "{49EF3CF7-4EA8-5A02-7365-113E9C0F188C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{62655750-F4E8-62B0-CC23-A7590FD86AAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavMeshComponentsEditor", "NavMeshComponentsEditor.csproj", "{662979E6-A291-D887-D6D3-DAB3EC1C0AFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47F0D5BD-F71D-D03F-B89A-63EEF467D2C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F0D5BD-F71D-D03F-B89A-63EEF467D2C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F0D5BD-F71D-D03F-B89A-63EEF467D2C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F0D5BD-F71D-D03F-B89A-63EEF467D2C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49EF3CF7-4EA8-5A02-7365-113E9C0F188C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49EF3CF7-4EA8-5A02-7365-113E9C0F188C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49EF3CF7-4EA8-5A02-7365-113E9C0F188C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49EF3CF7-4EA8-5A02-7365-113E9C0F188C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62655750-F4E8-62B0-CC23-A7590FD86AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62655750-F4E8-62B0-CC23-A7590FD86AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62655750-F4E8-62B0-CC23-A7590FD86AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62655750-F4E8-62B0-CC23-A7590FD86AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{662979E6-A291-D887-D6D3-DAB3EC1C0AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662979E6-A291-D887-D6D3-DAB3EC1C0AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662979E6-A291-D887-D6D3-DAB3EC1C0AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662979E6-A291-D887-D6D3-DAB3EC1C0AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
